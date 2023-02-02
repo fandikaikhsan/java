@@ -3,12 +3,18 @@
 ---
 ### Intro
 
-In this repo we'll discuss about java as a tools for explaining computational thinking. I think we should start by how to form think procedural like computer does. Today, computer "seems" like most powerful tools that human has But, its opposite. Computer is the most dumbest thing ever, so we should teach them to do something for us. They speak with machine language and they would . 
+In this repo we'll discuss about java as a tools for explaining computational thinking. I think we should start by how to form think procedural like computer does. Today, computer "seems" like most powerful tools that human have. But, its opposite, computer is the most dumbest thing ever we should teach them to do something for us. by speak like they do.
+
+So, in this repo we will summarize how to speak with computer to do what we ask for. Start from learn how they think.
 
 ---
 ### General Rules
 
-We will try to make this repo as a discussion forum. So if you have any question then start the discussion by opening issue. Start by reading on docs, I will update the material and exercise problems and any answer should be written on a single branch with branch name:
+We will try to make this repo as a discussion forum. This repo would accomondate us the question about the lecturer, about updating the missing piece on the docs, provide the question and the answers. 
+
+First thing first, if you have any question then start the discussion by opening issue. 
+
+Also I will update the material and exercise problems and any answer should be written on a single branch with branch name:
 
 ```problem/{problem_num}-{your_name}```
 
@@ -18,7 +24,7 @@ So for instance if I want to answer problem no 5, then I will create a branch ca
 
 Then you should open pull request to branch called ```problem/answers``` and peers will comment to your PR to discuss about the topics or to assess your answer.
 
-I realy encourage you to also refine our documents here by writing your understanding in with your own terms. If you have any input or your own version refision, just open the issue and tag-it with ```docs```.
+And I also realy encourage you to also refine our documents here by writing your understanding in with your own terms. If you have any input or your own version revision, just open the issue and tag-it with ```docs```.
 
 ---
 ### Contents
@@ -26,7 +32,7 @@ I realy encourage you to also refine our documents here by writing your understa
 *1. Introduction*
 - Why?
 - Computational thinking
-- Try it with strech app
+- Try it with Scratch app
 - Problem 1
 
 *2. Preparing our tools: Intro to Java*
@@ -63,10 +69,5 @@ I realy encourage you to also refine our documents here by writing your understa
 ---
 ### Resources
 
-
----
-## Variable
-
-We can assume a variable as a container that can store variable
 
 
