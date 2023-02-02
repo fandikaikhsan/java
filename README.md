@@ -16,18 +16,20 @@ So for instance if I want to answer problem no 5, then I will create a branch ca
 
 ```problem/5-fandikaikhsan```
 
-Then you should open pull request to branch called ```problem/answers``` and peers will comment to your PR to 
+Then you should open pull request to branch called ```problem/answers``` and peers will comment to your PR to discuss about the topics or to assess your answer.
+
+I realy encourage you to also refine our documents here by writing your understanding in with your own terms. If you have any input or your own version refision, just open the issue and tag-it with ```docs```.
 
 ---
 ### Contents
 
-1. Introduction
+*1. Introduction*
 - Why?
 - Computational thinking
 - Try it with strech app
 - Problem 1
 
-2. Preparing our tools: Intro to Java
+*2. Preparing our tools: Intro to Java*
 - What is Java? What is JVE, JDM, etc
 - Lets install Java on our machine
 - Try hello world
@@ -35,28 +37,36 @@ Then you should open pull request to branch called ```problem/answers``` and pee
 - Using Github as versioning tools
 - Problem 2
 
-3. Basic functionality
+*3. Basic functionality*
 - Defining variable
 - Data types
 - Conditional
 - Looping
 - Problem 3
 
-4. More functionality...
+*4. More functionality...*
 - Function
 - OOP with analogies
 - OOP concepts
 - Problem 4
 
-5. Deeper OOP
+*5. Deeper OOP*
 - Class
 - Object
 - Problem 5
 
-6. More OOP
+*6. More OOP*
 - Interfaces
 - Package
 - More OOP
 
 ---
 ### Resources
+
+
+---
+## Variable
+
+We can assume a variable as a container that can store variable
+
+
