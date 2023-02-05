@@ -29,43 +29,15 @@ And I also realy encourage you to also refine our documents here by writing your
 ---
 ### Contents
 
-*1. Introduction*
-- Why?
-- Computational thinking
-- Try it with Scratch app
-- Problem 1: [Scratch games](https://github.com/fandikaikhsan/java/blob/main/problems/sets/0/prob.md)
 
-*2. Preparing our tools: Intro to Java*
-- What is Java? What is JVE, JDM, etc
-- Lets install Java on our machine
-- Try hello world
-- Versioning
-- Using Github as versioning tools
-- Problem: [Versioning](https://github.com/fandikaikhsan/java/blob/main/problems/sets/1/prob.md)
-
-*3. Basic functionality*
-- Defining variable
-- Data types
-- Conditional
-- Looping
-- Problem 3: Logical solving problem
-
-*4. More functionality...*
-- Function
-- OOP with analogies
-- OOP concepts
-- Problem 4: Functional solving probelem and OOP concepts
-
-*5. Deeper OOP*
-- Class
-- Object
-- Problem 5: OOP problem
-
-*6. More OOP*
-- Interfaces
-- Package
-- More OOP
-- Problem 6: OOP problem
+Content | Topics | Problem
+:-- | :--: | :--: 
+*1. Introduction* | Why??, Computational thinking, and Try it with Scratch app | [Scratch games](https://github.com/fandikaikhsan/java/blob/main/problems/sets/0/prob.md) |
+*2. Preparing our tools: Intro to Java* | What is Java? What is JVE, JDM, etc; Lets install Java on our machine; Try hello world; Versioning; Using Github as versioning tools | [Versioning](https://github.com/fandikaikhsan/java/blob/main/problems/sets/1/prob.md) |
+*3. Basic functionality* | Defining variable, Data types, Conditional, Looping | Logical solving problem |
+*4. More functionality...* | Function, OOP with analogies, OOP concepts | Functional solving probelem and OOP concepts |
+*5. Deeper OOP* | Class, Object | OOP problem |
+*6. More OOP* | Interfaces, Package, More OOP | OOP problem
 
 *7. Deeper concepts*
 - Algorithm
