@@ -89,5 +89,6 @@ And I also realy encourage you to also refine our documents here by writing your
 ---
 ### Resources
 
+I provide several reverences for your futher reading. Our main referances comes from University of Massachusetts Amherst: https://people.cs.umass.edu/~elm/Teaching/121_S12/syllabus.html then I also refer to Harvard courses to provide algorithm concepts here: https://cs50.harvard.edu/x/2023/weeks/3/, another references comes from this article: https://www.geeksforgeeks.org/java-basic-syntax/
 
-
+If you have any good references, please open an issue and also set as ```docs``` tags. If there is any slides uses in the sync activities will be provided here in the future.
