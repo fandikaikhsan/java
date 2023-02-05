@@ -77,7 +77,7 @@ And I also realy encourage you to also refine our documents here by writing your
 - Start with HTML
 - Problem 8: HTML tagging
 
-*9. Create your first project"
+*9. Create your first project*
 - Intro to Springboot
 - Design your API
 - Hands on your API
