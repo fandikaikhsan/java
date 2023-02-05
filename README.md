@@ -33,7 +33,7 @@ And I also realy encourage you to also refine our documents here by writing your
 - Why?
 - Computational thinking
 - Try it with Scratch app
-- Problem 1
+- Problem 1: Scratch games
 
 *2. Preparing our tools: Intro to Java*
 - What is Java? What is JVE, JDM, etc
@@ -41,30 +41,50 @@ And I also realy encourage you to also refine our documents here by writing your
 - Try hello world
 - Versioning
 - Using Github as versioning tools
-- Problem 2
+- Problem 2: Versioning
 
 *3. Basic functionality*
 - Defining variable
 - Data types
 - Conditional
 - Looping
-- Problem 3
+- Problem 3: Logical solving problem
 
 *4. More functionality...*
 - Function
 - OOP with analogies
 - OOP concepts
-- Problem 4
+- Problem 4: Functional solving probelem and OOP concepts
 
 *5. Deeper OOP*
 - Class
 - Object
-- Problem 5
+- Problem 5: OOP problem
 
 *6. More OOP*
 - Interfaces
 - Package
 - More OOP
+- Problem 6: OOP problem
+
+*7. Deeper concepts*
+- Algorithm
+- Data structure
+- Memory
+
+*8. Hello world*
+- How internet works?
+- Start with HTML
+- Problem 8: HTML tagging
+
+*9. Create your first project"
+- Intro to Springboot
+- Design your API
+- Hands on your API
+- Problem 9: API Spec
+
+*10. Show us your project*
+- Presentation!
 
 ---
 ### Resources
