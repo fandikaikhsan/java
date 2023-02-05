@@ -33,7 +33,7 @@ And I also realy encourage you to also refine our documents here by writing your
 - Why?
 - Computational thinking
 - Try it with Scratch app
-- Problem 1: Scratch games
+- Problem 1: [Scratch games](https://github.com/fandikaikhsan/java/blob/main/problems/sets/0/prob.md)
 
 *2. Preparing our tools: Intro to Java*
 - What is Java? What is JVE, JDM, etc
