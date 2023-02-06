@@ -32,31 +32,16 @@ And I also realy encourage you to also refine our documents here by writing your
 
 Content | Topics | Problem
 :-- | :--: | :--: 
-*1. Introduction* | Why??, Computational thinking, and Try it with Scratch app | [Scratch games](https://github.com/fandikaikhsan/java/blob/main/problems/sets/0/prob.md) |
-*2. Preparing our tools: Intro to Java* | What is Java?, Install Java on your machine, Hello world, Versioning, Using Github as versioning tools | [Versioning](https://github.com/fandikaikhsan/java/blob/main/problems/sets/1/prob.md) |
-*3. Basic functionality* | Defining variable, Data types, Conditional, Looping | Logical solving problem |
-*4. More functionality...* | Function, Solving problem | Functional solving probelem and OOP concepts |
-*5. Deeper OOP* | OOP with analogies, OOP concepts, Class, Object | OOP problem |
-*6. More OOP* | Interfaces, Package, More OOP | OOP problem
-
-*7. Deeper concepts*
-- Algorithm
-- Data structure
-- Memory
-
-*8. Hello world*
-- How internet works?
-- Start with HTML
-- Problem 8: HTML tagging
-
-*9. Create your first project*
-- Intro to Springboot
-- Design your API
-- Hands on your API
-- Problem 9: API Spec
-
-*10. Show us your project*
-- Presentation!
+Introduction | Why??, Computational thinking, and Try it with Scratch app | [Scratch games](https://github.com/fandikaikhsan/java/blob/main/problems/sets/0/prob.md) |
+Preparing our tools: Intro to Java | What is Java?, Install Java on your machine, Hello world, Versioning, Using Github as versioning tools | [Versioning](https://github.com/fandikaikhsan/java/blob/main/problems/sets/1/prob.md) |
+Basic functionality | Defining variable, Data types, Conditional, Looping | Logical solving problem |
+More functionality... | Function, Solving problem | Functional solving probelem and OOP concepts |
+Deeper OOP | OOP with analogies, OOP concepts, Class, Object | OOP problem |
+More OOP | Interfaces, Package, More OOP | OOP problem
+Deeper concepts | Algorithm, Data structure, Memory | ... |
+Hello world | How internet works?, Start with HTML | HTML problem |
+Create your first project | Intro to Springboot, Design your API, Hands on your API | API Spec
+Show us your project | Presentation! | ...
 
 ---
 ### Resources
