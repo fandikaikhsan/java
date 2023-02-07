@@ -7,22 +7,38 @@ Here is a problem set to help you understand conditional statements, loops, and 
 1. Conditional Statements:
 Learn how to use if-else and switch statements to make decisions in your code.
 
-Problem: Write a program that takes a number as input and prints "Positive" if the number is positive, "Negative" if the number is negative, and "Zero" if the number is zero.
+Problem:
+- Write a program that takes a number as input and prints "Positive" if the number is positive, "Negative" if the number is negative, and "Zero" if the number is zero.
+- Write a program that takes an integer as input and prints "Odd" if the number is odd and "Even" if the number is even.
+- Write a program that takes a character as input and prints "Vowel" if the character is a vowel (a, e, i, o, or u) and "Consonant" if the character is a consonant.
+- Write a program that takes two integers as input and prints the larger of the two numbers.
 
 2. Loops:
 Learn how to use for, while, and do-while loops to repeat sections of code.
 
-Problem: Write a program that prints the first 10 natural numbers.
+Problem: 
+- Write a program that prints the first 10 natural numbers.
+- Write a program that prints the sum of the first 10 natural numbers.
+- Write a program that prints the first 10 Fibonacci numbers.
+- Write a program that takes an integer as input and prints its multiplication table.
 
 3. Variables:
 Learn how to declare, initialize, and use variables in Java.
 
-Problem: Write a program that takes two numbers as input and swaps their values.
+Problem: 
+- Write a program that takes two numbers as input and swaps their values.
+- Write a program that takes two floating-point numbers as input and prints their average.
+- Write a program that takes a string as input and prints the number of vowels and consonants in the string.
+- Write a program that takes a string as input and reverses it.
 
 4. Arrays:
 Learn how to use arrays to store multiple values of the same data type.
 
-Problem: Write a program that takes an array of integers as input and finds the maximum and minimum values in the array.
+Problem: 
+- Write a program that takes an array of integers as input and finds the maximum and minimum values in the array.
+- Write a program that takes an array of integers as input and prints the second largest value in the array.
+- Write a program that takes an array of strings as input and sorts them in lexicographic order.
+- Write a program that takes an array of floating-point numbers as input and calculates the average, minimum, and maximum values.
 
 ---
 
