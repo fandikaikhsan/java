@@ -34,9 +34,9 @@ Content | Topics | Problem
 :-- | :--: | :--: 
 Introduction | Why??, Computational thinking, and Try it with Scratch app | [Scratch games](https://github.com/fandikaikhsan/java/blob/main/problems/sets/0/prob.md) |
 Preparing our tools: Intro to Java | What is Java?, Install Java on your machine, Hello world, Versioning, Using Github as versioning tools | [Versioning](https://github.com/fandikaikhsan/java/blob/main/problems/sets/1/prob.md) |
-Basic functionality | Defining variable, Data types, Conditional, Looping | Logical solving problem |
-More functionality... | Function, Solving problem | Logical solving probelem |
-Deeper OOP | OOP with analogies, OOP concepts, Class, Object | OOP concepts problem |
+Basic functionality | Defining variable, Data types, Conditional, Looping | [Logical](https://github.com/fandikaikhsan/java/blob/main/problems/sets/2/prob.md) |
+More functionality... | Function, Solving problem | [Logical](https://github.com/fandikaikhsan/java/blob/main/problems/sets/2/prob.md) |
+Deeper OOP | OOP with analogies, OOP concepts, Class, Object | [OOP concepts](https://github.com/fandikaikhsan/java/blob/main/problems/sets/3/prob.md) |
 More OOP | Interfaces, Package, More OOP | OOP handson problem
 Deeper concepts | Algorithm, Data structure, Memory | ... |
 Hello world | How internet works?, Start with HTML | HTML problem, API Spec |
