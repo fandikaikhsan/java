@@ -30,18 +30,18 @@ And I also realy encourage you to also refine our documents here by writing your
 ### Contents
 
 
-Content | Topics | Problem
-:-- | :--: | :--: 
-Introduction | Why??, Computational thinking, and Try it with Scratch app | [Scratch games](https://github.com/fandikaikhsan/java/blob/main/problems/sets/0/prob.md) |
-Preparing our tools: Intro to Java | What is Java?, Install Java on your machine, Hello world, Versioning, Using Github as versioning tools | [Versioning](https://github.com/fandikaikhsan/java/blob/main/problems/sets/1/prob.md) |
-Basic functionality | Defining variable, Data types, Conditional, Looping | [Logical](https://github.com/fandikaikhsan/java/blob/main/problems/sets/2/prob.md) |
-More functionality... | Function, Solving problem | [Logical](https://github.com/fandikaikhsan/java/blob/main/problems/sets/2/prob.md) |
-Deeper OOP | OOP with analogies, OOP concepts, Class, Object | [OOP concepts](https://github.com/fandikaikhsan/java/blob/main/problems/sets/3/prob.md) |
-More OOP | Interfaces, Package, More OOP | OOP handson problem
-Deeper concepts | Algorithm, Data structure, Memory | ... |
-Hello world | How internet works?, Start with HTML | HTML problem, API Spec |
-Create your first project | Intro to Springboot, Design your API, Hands on your API | API Code
-Show us your project | Presentation! | ...
+Content | Topics | Problem | Day
+:-- | :--: | :--: | :--:
+Introduction | Why??, Computational thinking, and Try it with Scratch app | [Scratch games] (https://github.com/fandikaikhsan/java/blob/main/problems/sets/0/prob.md) | 1 |
+Preparing our tools: Intro to Java | What is Java?, Install Java on your machine, Hello world, Versioning, Using Github as versioning tools | [Versioning](https://github.com/fandikaikhsan/java/blob/main/problems/sets/1/prob.md) | 2 |
+Basic functionality | Defining variable, Data types, Conditional, Looping | [Logical](https://github.com/fandikaikhsan/java/blob/main/problems/sets/2/prob.md) | 3-4 |
+More functionality... | Function, Solving problem | [Logical](https://github.com/fandikaikhsan/java/blob/main/problems/sets/2/prob.md) | 4-5
+Deeper OOP | OOP with analogies, OOP concepts, Class, Object | [OOP concepts](https://github.com/fandikaikhsan/java/blob/main/problems/sets/3/prob.md) | 6 |
+More OOP | Interfaces, Package, More OOP | OOP handson problem | 7 |
+Deeper concepts | Algorithm, Data structure, Memory | ... | 7 or 8 |
+Hello world | How internet works?, Start with HTML | HTML problem, API Spec | 8 or 9 |
+Create your first project | Intro to Springboot, Design your API, Hands on your API | API Code | conditional |
+Show us your project | Presentation! | ... | conditional |
 
 ---
 ### Resources
