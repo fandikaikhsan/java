@@ -32,7 +32,7 @@ And I also realy encourage you to also refine our documents here by writing your
 
 Content | Topics | Problem | Day
 :-- | :--: | :--: | :--:
-Introduction | Why??, Computational thinking, and Try it with Scratch app | [Scratch games] (https://github.com/fandikaikhsan/java/blob/main/problems/sets/0/prob.md) | 1 |
+Introduction | Why??, Computational thinking, and Try it with Scratch app | [Scratch games](https://github.com/fandikaikhsan/java/blob/main/problems/sets/0/prob.md) | 1 |
 Preparing our tools: Intro to Java | What is Java?, Install Java on your machine, Hello world, Versioning, Using Github as versioning tools | [Versioning](https://github.com/fandikaikhsan/java/blob/main/problems/sets/1/prob.md) | 2 |
 Basic functionality | Defining variable, Data types, Conditional, Looping | [Logical](https://github.com/fandikaikhsan/java/blob/main/problems/sets/2/prob.md) | 3-4 |
 More functionality... | Function, Solving problem | [Logical](https://github.com/fandikaikhsan/java/blob/main/problems/sets/2/prob.md) | 4-5
