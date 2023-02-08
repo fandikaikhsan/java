@@ -49,3 +49,27 @@ Show us your project | Presentation! | ...
 I provide several reverences for your futher reading. Our main referances comes from University of Massachusetts Amherst: https://people.cs.umass.edu/~elm/Teaching/121_S12/syllabus.html then I also refer to Harvard courses to provide algorithm concepts here: https://cs50.harvard.edu/x/2023/weeks/3/, another references comes from this article: https://www.geeksforgeeks.org/java-basic-syntax/
 
 If you have any good references, please open an issue and also set as ```docs``` tags. If there is any slides uses in the sync activities will be provided here in the future.
+
+---
+
+# TLDR
+
+### Intro
+
+Java is a high-level programming language that is widely used for developing applications for desktop, web, and mobile devices. Java is object-oriented, meaning it allows programmers to define objects and classes that can be used to represent real-world entities and their properties and behaviors.
+
+One of the main benefits of Java is that it can run on a wide variety of platforms, including Windows, MacOS, and Linux. This is made possible by the Java Virtual Machine (JVM), which interprets compiled Java code and executes it on the underlying hardware. The JVM also provides security features that prevent malicious code from compromising the system.
+
+Another key tool for Java developers is the Java Development Kit (JDK), which includes the JVM and a set of tools for compiling and debugging Java code. The most popular Integrated Development Environment (IDE) for Java is Eclipse, which provides a comprehensive set of tools for coding, testing, and deploying Java applications.
+
+To get started with Java, you need to first install the JDK on your computer. The installation process is straightforward, and there are versions available for Windows, MacOS, and Linux. Here are the steps to install the JDK on a Windows machine:
+
+Download the latest JDK from the official Oracle website (https://www.oracle.com/java/technologies/javase-downloads.html).
+Run the downloaded setup file.
+Follow the on-screen instructions to complete the installation process.
+Verify that the JDK has been installed correctly by opening a command prompt and typing "java -version". You should see the version of Java that you have installed.
+Once you have installed the JDK, you are ready to start coding in Java! You can use an IDE like Eclipse, or a simple text editor, to write your code. Java code is saved with a ".java" file extension, and must be compiled into bytecode before it can be executed by the JVM.
+
+In conclusion, Java is a powerful and versatile programming language that is widely used for developing applications. With the JVM, JDK, and Eclipse, you have all the tools you need to start coding in Java and building your own applications.
+
+### 
