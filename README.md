@@ -45,6 +45,8 @@ Then you should open pull request to branch called ```problem/answers``` with PR
 
 And I also realy encourage you to also refine our documents here by writing your understanding in with your own terms. If you have any input or your own version revision, just open the issue and tag-it with ```docs```.
 
+For references I also always update this docs if theres is any good references or good problem to resolve, I also write our TLDR as a summary to next lecturer.
+
 ---
 ### Contents
 
@@ -73,7 +75,7 @@ If you have any good references, please open an issue and also set as ```docs```
 
 # TLDR
 
-### Intro
+### What is Java
 
 Java is a high-level programming language that is widely used for developing applications for desktop, web, and mobile devices. Java is object-oriented, meaning it allows programmers to define objects and classes that can be used to represent real-world entities and their properties and behaviors.
 
