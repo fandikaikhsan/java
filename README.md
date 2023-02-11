@@ -1,4 +1,4 @@
-# Learn Java with Fandika
+# Java Fundamental
 
 ---
 ### Intro
@@ -10,19 +10,38 @@ So, in this repo we will summarize how to speak with computer to do what we ask 
 ---
 ### General Rules
 
-We will try to make this repo as a discussion forum. This repo would accomondate us the question about the lecturer, about updating the missing piece on the docs, provide the question and the answers. 
+I will try to make this repo as a discussion forum. This repo would accomondate us all of your question about the lecturer, provide problem set, and about updating the references.
 
-First thing first, if you have any question then start the discussion by opening issue. 
 
-Also I will update the material and exercise problems and any answer should be written on a single branch with branch name:
+1. **Q&A** <br/>
 
-```problem/{problem_num}-{your_name}```
+First, if you have any question about the lecturer then start the discussion by opening issue. Issue is on your left-top screen under this repo name ```fandikaikhsan/java``` then you click **Create new issue**
 
-So for instance if I want to answer problem no 5, then I will create a branch called:
+<img width="1150" alt="image" src="https://user-images.githubusercontent.com/27040077/218235441-8f8f6f3c-0cf9-49b3-a6e9-0353e8d27b10.png">
 
-```problem/5-fandikaikhsan```
+Mark it with tags ```[QA]``` before your questions and select label as a ```question``` (the purple one). More about creating an issues please refer to this example: https://github.com/fandikaikhsan/java/issues/1.
 
-Then you should open pull request to branch called ```problem/answers``` and peers will comment to your PR to discuss about the topics or to assess your answer.
+I will check the forum periodicly any anwers will be provided on the comment section. Of course you can help your friends too by providing on the comment section and right answers should be marked by give an emoji on it.
+
+<img width="836" alt="image" src="https://user-images.githubusercontent.com/27040077/218235975-c504c125-85c0-4c50-804c-155a9dc096a5.png">
+
+
+2. **Problem set** <br/>
+
+Also I will update the exercise problems in ```/problems/sets```  or you simply take a look on table below for each content there will be sets of problem. Then after you made your answer, you should put your answer by commiting and pushing your answer to Github and write it on a single branch called:
+
+```answer/{sets}-{problem_num}-{your_name}```
+
+So for example if I want to answer problem no 5 in sets 2, then I will create a branch called:
+
+```answer/2-5-fandikaikhsan```
+
+Then you should open pull request to branch called ```problem/answers``` with PR title: ```{[SETS_NUM]}: {Your_PR_messages}``` and peers will comment to your PR to discuss about the topics or to assess your answer.
+
+<img width="287" alt="image" src="https://user-images.githubusercontent.com/27040077/218236471-11d3741d-2c7b-4101-b02b-30b5da1e4be9.png">
+
+
+3. **Updating references** <br/>
 
 And I also realy encourage you to also refine our documents here by writing your understanding in with your own terms. If you have any input or your own version revision, just open the issue and tag-it with ```docs```.
 
@@ -32,8 +51,8 @@ And I also realy encourage you to also refine our documents here by writing your
 
 Content | Topics | Problem | Day
 :-- | :--: | :--: | :--:
-Introduction | Why??, Computational thinking, and Try it with Scratch app | [Scratch games](https://github.com/fandikaikhsan/java/blob/main/problems/sets/0/prob.md) | 1 |
-Preparing our tools: Intro to Java | What is Java?, Install Java on your machine, Hello world, Versioning, Using Github as versioning tools | [Versioning](https://github.com/fandikaikhsan/java/blob/main/problems/sets/1/prob.md) | 2 |
+Introduction | Intro, Computational thinking, and Try it with Scratch app | [Scratch games](https://github.com/fandikaikhsan/java/blob/main/problems/sets/0/prob.md) | 1 |
+Preparing our tools: Intro to Java | What is Java, Install Java on your machine, Hello world, Versioning, Using Github as versioning tools | [Versioning](https://github.com/fandikaikhsan/java/blob/main/problems/sets/1/prob.md) | 2 |
 Basic functionality | Defining variable, Data types, Conditional, Looping | [Logical](https://github.com/fandikaikhsan/java/blob/main/problems/sets/2/prob.md) | 3-4 |
 More functionality... | Function, Solving problem | [Logical](https://github.com/fandikaikhsan/java/blob/main/problems/sets/2/prob.md) | 4-5
 Deeper OOP | OOP with analogies, OOP concepts, Class, Object | [OOP concepts](https://github.com/fandikaikhsan/java/blob/main/problems/sets/3/prob.md) | 6 |
@@ -46,7 +65,7 @@ Show us your project | Presentation! | ... | conditional |
 ---
 ### Resources
 
-I provide several reverences for your futher reading. Our main referances comes from University of Massachusetts Amherst: https://people.cs.umass.edu/~elm/Teaching/121_S12/syllabus.html then I also refer to Harvard courses to provide algorithm concepts here: https://cs50.harvard.edu/x/2023/weeks/3/, another references comes from this article: https://www.geeksforgeeks.org/java-basic-syntax/
+I provide several reverences for your futher reading. Our main referances comes from University of Massachusetts Amherst: https://people.cs.umass.edu/~elm/Teaching/121_S12/syllabus.html then I also refer to Harvard courses to provide algorithm concepts here: https://cs50.harvard.edu/x/2023/weeks/3/, for syntax references comes from this article: https://www.geeksforgeeks.org/java-basic-syntax/
 
 If you have any good references, please open an issue and also set as ```docs``` tags. If there is any slides uses in the sync activities will be provided here in the future.
 
