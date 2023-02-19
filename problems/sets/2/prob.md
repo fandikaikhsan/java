@@ -2,49 +2,78 @@
 #### By Fandika Ikhsan
 ---
 
-Here is a problem set to help you understand conditional statements, loops, and variables in Java:
+*Problem Set: Introduction to Github*
 
-1. Conditional Statements:
-Learn how to use if-else and switch statements to make decisions in your code.
+This problem set is designed to help new programmers understand the basics of using Github, a popular platform for version control and collaboration in software development. By learning about Github, you will gain a valuable skill that is widely used in the software industry and will be able to collaborate on projects more efficiently with others.
 
-Problem:
-- Write a program that takes a number as input and prints "Positive" if the number is positive, "Negative" if the number is negative, and "Zero" if the number is zero.
-- Write a program that takes an integer as input and prints "Odd" if the number is odd and "Even" if the number is even.
-- Write a program that takes a character as input and prints "Vowel" if the character is a vowel (a, e, i, o, or u) and "Consonant" if the character is a consonant.
-- Write a program that takes two integers as input and prints the larger of the two numbers.
+Goal:
+1. Understanding Repositories: Explain what a Github repository is and how to create one.
+2. Commit Changes: Demonstrate how to make changes to a file in a repository and how to commit those changes.
+3. Collaboration: Show how to collaborate with others on a Github project by creating a branch, making changes, and creating a pull request.
+4. Issues and Pull Requests: Explain the difference between issues and pull requests and demonstrate how to use each in a Github repository.
 
-2. Loops:
-Learn how to use for, while, and do-while loops to repeat sections of code.
+Sets:
+1. Understanding Repositories:
+Create a new Github account
+Create a new repository called "My First Repository"
+Add a file called "README.md" to the repository and include a brief description of what the repository is for
 
-Problem: 
-- Write a program that prints the first 10 natural numbers.
-- Write a program that prints the sum of the first 10 natural numbers.
-- Write a program that prints the first 10 Fibonacci numbers.
-- Write a program that takes an integer as input and prints its multiplication table.
+2. Commit Changes:
+Open the "README.md" file in the "My First Repository"
+Make some changes to the file, such as adding a heading or changing the text
+Commit the changes with a descriptive commit message
 
-3. Variables:
-Learn how to declare, initialize, and use variables in Java.
+3. Collaboration:
+Invite a friend to collaborate on the "My First Repository"
+Have your friend create a new branch called "feature-x"
+Have your friend make some changes to the "README.md" file on the "feature-x" branch
+Have your friend create a pull request to merge the "feature-x" branch into the main branch
+Review the changes in the pull request and merge the branch if everything looks good
 
-Problem: 
-- Write a program that takes two numbers as input and swaps their values.
-- Write a program that takes two floating-point numbers as input and prints their average.
-- Write a program that takes a string as input and prints the number of vowels and consonants in the string.
-- Write a program that takes a string as input and reverses it.
-
-4. Arrays:
-Learn how to use arrays to store multiple values of the same data type.
-
-Problem: 
-- Write a program that takes an array of integers as input and finds the maximum and minimum values in the array.
-- Write a program that takes an array of integers as input and prints the second largest value in the array.
-- Write a program that takes an array of strings as input and sorts them in lexicographic order.
-- Write a program that takes an array of floating-point numbers as input and calculates the average, minimum, and maximum values.
+4. Issues and Pull Requests:
+Create a new issue in the "My First Repository"
+Label the issue as a "bug"
+Have your friend comment on the issue with a suggestion for a fix
+Create a new branch based on the suggestion
+Make the changes to the "README.md" file to fix the bug
+Create a pull request to merge the new branch into the main branch
+Review the changes in the pull request and merge the branch if everything looks good
 
 ---
 
-Final Project:
+*Problem Set: Create your first project repository*
 
-Put your skills to the test by creating a final project that showcases what you have learned in this problem set.
+Final Project: Personal Portfolio Website
 
-Problem: Write a program that implements a simple calculator that can perform addition, subtraction, multiplication, and division operations. The program should use methods and conditional statements to determine the operation to perform and display the result to the user.
-This problem set will help you understand the basics of programming in Java and how to use conditional statements, loops, variables, arrays, and methods. Good luck!
+For this final project, you will put into practice everything you have learned about Github in this problem set. You will create a personal portfolio website to showcase your projects and skills. Dont worry, HTML file will be provided in this file.
+
+1. Repository Setup:
+Create a new Github account if you don't already have one
+Create a new repository called "My Portfolio"
+Initialize the repository with a README file
+
+2. Commit Changes:
+Create a new file called "index.html" in the "My Portfolio" repository
+Use HTML to create a basic structure for the website, including a header, main content area, and footer
+Add some dummy content to the website, such as your name and a description of your skills and interests
+Commit the changes with a descriptive commit message
+
+3. Collaboration:
+Create a new branch called "feature-x"
+Make some changes to the "index.html" file on the "feature-x" branch, such as adding a new section for your projects
+Create a pull request to merge the "feature-x" branch into the main branch
+Review the changes in the pull request and merge the branch if everything looks good
+Issues and Pull Requests:
+Create an issue to track a bug in the "My Portfolio" repository
+Label the issue as a "bug"
+Create a new branch based on the issue to fix the bug
+Make the changes to the "index.html" file to fix the bug
+Create a pull request to merge the new branch into the main branch
+Review the changes in the pull request and merge the branch if everything looks good
+
+4. Final Deliverables:
+A completed personal portfolio website hosted on Github Pages
+A README file with a description of the project and how to run the website locally
+A showcase of the website and the Github repository to demonstrate your work.
+
+By completing this final project, you will have a hands-on experience of using Github to create and manage a personal portfolio website. You will have the opportunity to use key Github features, such as repositories, commits, branches, pull requests, and issues, to develop and maintain your website. Good luck!

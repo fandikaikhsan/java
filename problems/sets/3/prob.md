@@ -2,27 +2,43 @@
 #### By Fandika Ikhsan
 ---
 
-Here is a problem set to test your understanding of Object-Oriented Programming (OOP) concepts:
+Here is a problem set to help you understand conditional statements, loops, and variables in Java:
 
-1. Classes and Objects:
-Learn how to define classes and create objects.
-Problem: Create a class to represent a car and its properties (such as make, model, year, etc.). Create several car objects and display their properties.
+1. Conditional Statements:
+Learn how to use if-else and switch statements to make decisions in your code.
 
-2. Inheritance:
-Learn how to create a class that inherits from another class.
-Problem: Create a class to represent a sports car that inherits from the car class, and add a new property (such as top speed) to it. Create several sports car objects and display their properties.
+Problem:
+- Write a program that takes a number as input and prints "Positive" if the number is positive, "Negative" if the number is negative, and "Zero" if the number is zero.
+- Write a program that takes an integer as input and prints "Odd" if the number is odd and "Even" if the number is even.
+- Write a program that takes a character as input and prints "Vowel" if the character is a vowel (a, e, i, o, or u) and "Consonant" if the character is a consonant.
+- Write a program that takes two integers as input and prints the larger of the two numbers.
 
-3. Polymorphism:
-Learn how to create methods that have the same name but different implementations in different classes.
-Problem: Create a class to represent a truck that inherits from the car class, and add a new method (such as carrying capacity) to it. Create several truck objects and display their properties and methods.
+2. Loops:
+Learn how to use for, while, and do-while loops to repeat sections of code.
 
-4. Encapsulation:
-Learn how to hide the implementation details of a class and expose only the necessary information.
-Problem: Create a class to represent a bank account and its properties (such as balance, interest rate, etc.). Add methods to deposit and withdraw money from the account, and hide the implementation details of the methods.
+Problem: 
+- Write a program that prints the first 10 natural numbers.
+- Write a program that prints the sum of the first 10 natural numbers.
+- Write a program that prints the first 10 Fibonacci numbers.
+- Write a program that takes an integer as input and prints its multiplication table.
 
-5. Abstract Classes and Interfaces:
-Learn how to create abstract classes and interfaces, and implement them in concrete classes.
-Problem: Create an abstract class to represent a vehicle and its properties (such as make, model, year, etc.). Create several concrete classes that inherit from the vehicle class (such as car, truck, and sports car), and implement an interface to represent the capabilities of the vehicle (such as speed, carrying capacity, etc.).
+3. Variables:
+Learn how to declare, initialize, and use variables in Java.
+
+Problem: 
+- Write a program that takes two numbers as input and swaps their values.
+- Write a program that takes two floating-point numbers as input and prints their average.
+- Write a program that takes a string as input and prints the number of vowels and consonants in the string.
+- Write a program that takes a string as input and reverses it.
+
+4. Arrays:
+Learn how to use arrays to store multiple values of the same data type.
+
+Problem: 
+- Write a program that takes an array of integers as input and finds the maximum and minimum values in the array.
+- Write a program that takes an array of integers as input and prints the second largest value in the array.
+- Write a program that takes an array of strings as input and sorts them in lexicographic order.
+- Write a program that takes an array of floating-point numbers as input and calculates the average, minimum, and maximum values.
 
 ---
 
@@ -30,5 +46,5 @@ Final Project:
 
 Put your skills to the test by creating a final project that showcases what you have learned in this problem set.
 
-Problem: Create a complete simulation of a car dealership that uses classes, inheritance, polymorphism, encapsulation, and abstract classes/interfaces. The simulation should allow the user to view the inventory of cars, trucks, and sports cars, and make purchases or trade-ins.
-This problem set will help you understand the core concepts of OOP and apply them in real-world scenarios. Good luck!
+Problem: Write a program that implements a simple calculator that can perform addition, subtraction, multiplication, and division operations. The program should use methods and conditional statements to determine the operation to perform and display the result to the user.
+This problem set will help you understand the basics of programming in Java and how to use conditional statements, loops, variables, arrays, and methods. Good luck!
