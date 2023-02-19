@@ -18,10 +18,50 @@ Sets:
 
 1. Write a program that prints out the numbers from 1 to 10.
 2. Write a program that prints out the even numbers from 1 to 20.
-3. Write a program that takes an input number from the user, and prints out whether the number is odd or even.
-4. Write a program that takes an input number from the user, and prints out the multiplication table for that number up to 10.
-5. Write a program that generates a random number between 1 and 100, and then asks the user to guess the number. The program should tell the user whether their guess is too high, too low, or correct, and then allow the user to guess again until they guess the correct number.
+3. Write a program that takes value from varible ```myNumber``` and return whether the number is odd or even.
+4. Write a program that takes value from varible ```myNumber```, and return out the multiplication table for that number up to 10 in array called ```multiplicationNum```.
+5. Write a program that takes value from array ```listNumber```, and return the sorted array.
 
-Note:
+To make easier it follow this template:
 
-Please write your answer in document file and export it to PDF file. Due to this problem in Wednesday at 23.59 WIB. Goodluck all!
+```
+# Fandika Ikhsan
+# Problem 1
+
+# Template comes from How to Design Programs book by Matthias Felleisen
+# Use hastag to comment out your code. Computer will not processed the line with hastag
+
+## Purpose:
+# Write a program that sum 2 number, then return boolean if the answer is available on array called listNum.
+
+## Signature:
+# Int numA, Int numB, Int[] listNum -> Bool result
+
+## Pseudocode:
+
+# Initiate all variable needed
+Int numA = 5;
+Int numB = 10;
+Int[] listNum = [1, 2, 3];
+Bool result = false;
+
+# Calculate sum of 2 variable
+Int sum = numA + numB;
+
+# Do for looping to check each array elements
+for (int i = 0; i < listNum.length; i++) {
+  # Check is sum equals to array elements?
+  if (sum == listNum[i]) {
+    return true;
+  }
+}
+# return false if there is no answer in array
+return false;
+
+```
+
+Note: <br/>
+- Please write your answer in document file and export it to PDF file.
+- Due in Wednesday at 23.59 WIB. 
+- Sent your answer to Whatsapp group.
+- Goodluck all!
