@@ -19,8 +19,24 @@ Sets:
 1. Write a program that prints out the numbers from 1 to 10.
 2. Write a program that prints out the even numbers from 1 to 20.
 3. Write a program that takes value from varible ```myNumber``` and return whether the number is odd or even.
-4. Write a program that takes value from varible ```myNumber```, and return out the multiplication table for that number up to 10 in array called ```multiplicationNum```.
-5. Write a program that takes value from array ```listNumber```, and return the sorted array.
+```
+  Int[] myNumber = 2;
+  return "even"
+```
+
+4. Write a program that takes value from 2 index array called ```myNumber```, and return out the multiplication table for that number up to 5 in array called ```multiplicationNum```.
+
+```
+ Int[] myNumber = [2, 3];
+ return Int[] multiplicationNum = [2, 4, 8, 10, 3, 6, 9, 12, 15]
+```
+
+5. Write a program that takes value from 5 index array ```listNumber```, and return the sorted array.
+
+```
+ Int[] listNumber = [1, 5, 3, 2, 4]
+ return Int[] sortedNumber = [1, 2, 3, 4, 5]
+```
 
 To make easier it follow this template:
 
