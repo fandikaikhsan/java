@@ -1,9 +1,9 @@
 # Java Fundamental
 
 ---
-### Intro
+### Intro 
 
-In this repo we'll discuss about java as a tools for explaining computational thinking. I think we should start by how to form think procedural like computer does. Today, computer "seems" like most powerful tools that human have. But, its opposite, computer is the most dumbest thing ever we should teach them to do something for us. by speak like they do.
+In this repository we'll be discussing about java as a tools for explaining computational thinking. I think we should start by how to form think procedural like computer does. Today, computer "seems" like most powerful tools that human have. But, its opposite, computer is the most dumbest thing ever we should teach them to do something for us. by speak like they do.
 
 So, in this repo we will summarize how to speak with computer to do what we ask for. Start from learn how they think.
 
