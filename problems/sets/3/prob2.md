@@ -10,6 +10,7 @@ Learn how to wrap your code into function form.
 Problem:
 - Create a function called calculateTip that takes a double representing the bill amount and an integer representing the tip percentage. Return the tip amount.
 - Write a program that takes two floating-point numbers as input and prints their average.
+- Create a function called convertToSeconds that takes an integer representing minutes and returns the equivalent number of seconds.
 
 2. Conditional Statements:
 Learn how to use if-else and switch statements to make decisions in your code.
